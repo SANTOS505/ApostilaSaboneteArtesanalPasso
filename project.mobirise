@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site modelo novo nao terminado",
+    "name": "Apostila Sabonete Artesanal",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -43,14 +43,15 @@
     "uniqCompNum": 14,
     "versionPublish": "4.10.5",
     "screenshot": "screenshot.png",
-    "siteUrl": "",
+    "siteUrl": "http://ApostilaSaboneteArtesanal.receitassaboneteartesanal.com",
     "sitemapSwitcherAuto": "on",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/sabonetes-aretesanais-128x78.png",
     "noImageResize": "",
     "gdpr": "",
-    "google-analytics": ""
+    "google-analytics": "",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
