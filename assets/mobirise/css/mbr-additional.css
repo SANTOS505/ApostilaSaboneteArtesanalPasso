@@ -2395,7 +2395,7 @@ body {
 }
 .cid-rwJojhQM0O {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 45px;
   background-color: #ffffff;
 }
 .cid-rwJojhQM0O h4 {
@@ -2418,6 +2418,20 @@ body {
 }
 .cid-rwJojhQM0O P {
   text-align: center;
+}
+.cid-rwP2vNBsap {
+  background: #24ff21;
+  padding-top: 15px;
+  padding-bottom: 45px;
+  background: linear-gradient(0deg, #24ff21, #ffffff);
+}
+.cid-rwP2vNBsap .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rwP2vNBsap .video-block {
+    width: 100% !important;
+  }
 }
 .cid-rwJoIoNhQK {
   padding-top: 60px;
