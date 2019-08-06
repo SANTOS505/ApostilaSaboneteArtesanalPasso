@@ -1859,7 +1859,7 @@ body {
   text-align: center;
 }
 .cid-rrNdUwNPe7 H3 {
-  color: #fc8807;
+  color: #0afc07;
 }
 .cid-rrNdUwNPe7 B {
   color: #0afc07;
@@ -2393,22 +2393,11 @@ body {
     width: 100% !important;
   }
 }
-.cid-rwXX7OYneX {
-  padding-top: 30px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-rwXX7OYneX .mbr-section-subtitle {
-  color: #232323;
-}
-.cid-rwXX7OYneX H2 {
-  color: #1b160e;
-}
 .cid-rwP2vNBsap {
-  background: #24ff21;
-  padding-top: 0px;
+  background: #ffffff;
+  padding-top: 45px;
   padding-bottom: 45px;
-  background: linear-gradient(0deg, #24ff21, #ffffff);
+  background: linear-gradient(0deg, #ffffff, #0fb60d);
 }
 .cid-rwP2vNBsap .video-block {
   margin: auto;
@@ -2417,6 +2406,18 @@ body {
   .cid-rwP2vNBsap .video-block {
     width: 100% !important;
   }
+}
+.cid-rwXX7OYneX {
+  padding-top: 45px;
+  padding-bottom: 15px;
+  background-color: #0fb60d;
+}
+.cid-rwXX7OYneX .mbr-section-subtitle {
+  color: #232323;
+}
+.cid-rwXX7OYneX H2 {
+  color: #232323;
+  text-align: center;
 }
 .cid-rwJojhQM0O {
   padding-top: 90px;
@@ -2633,7 +2634,7 @@ body {
 }
 .cid-rwOL87IRSc {
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 15px;
   position: relative;
   background-image: url("../../../assets/images/banner-soap-bars-compressed-2048x-1712x500.jpg");
 }
@@ -2671,6 +2672,53 @@ body {
 }
 .cid-rwOL87IRSc H4 {
   color: #ff8000;
+}
+.cid-rwOL87IRSc .panel-text {
+  color: #1b160e;
+}
+.cid-rykDeQKmiF {
+  padding-top: 0px;
+  padding-bottom: 60px;
+  position: relative;
+  background-image: url("../../../assets/images/banner-soap-bars-compressed-2048x-1712x500.jpg");
+}
+.cid-rykDeQKmiF p {
+  color: #767676;
+}
+.cid-rykDeQKmiF .card {
+  border-radius: 0px;
+  margin-bottom: -1px;
+}
+.cid-rykDeQKmiF .card .card-header {
+  border-radius: 0px;
+  border: 0px;
+  padding: 0;
+}
+.cid-rykDeQKmiF .card .card-header a.panel-title {
+  margin-bottom: 0;
+  margin-top: -1px;
+  font-weight: 500;
+  font-style: normal;
+  display: block;
+  text-decoration: none !important;
+  line-height: normal;
+}
+.cid-rykDeQKmiF .card .card-header a.panel-title:focus {
+  text-decoration: none !important;
+}
+.cid-rykDeQKmiF .card .card-header a.panel-title h4 {
+  border: 1px solid #dfdfdf;
+  padding: 1.3rem 2rem;
+  margin-bottom: 0;
+}
+.cid-rykDeQKmiF .card .card-header a.panel-title h4 .sign {
+  padding-right: 1rem;
+}
+.cid-rykDeQKmiF H4 {
+  color: #ff8000;
+}
+.cid-rykDeQKmiF .panel-text {
+  color: #232323;
 }
 .cid-rwOPeskq89 {
   padding-top: 60px;
